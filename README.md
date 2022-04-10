@@ -1,6 +1,6 @@
 Hola, Como estan!👋
 
-- 🌱 Estoy Aprendiendo HTML,CSS,JAVASCRIPTS,PYTHON
+- 🌱 Estoy Aprendiendo HTML,CSS,JAVA SCRIPTS,PYTHON
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEFERSON-MACHADO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
